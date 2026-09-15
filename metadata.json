@@ -1,0 +1,7 @@
+{
+  "name": "ReqSynth AI",
+  "description": "AI-assisted interview platform that generates guides across 5 pillars, records & transcribes responses, analyzes sentiment, and synthesizes structured requirements.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
